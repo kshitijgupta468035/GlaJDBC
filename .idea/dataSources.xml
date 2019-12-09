@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="GLA@localhost" uuid="7f162c8c-3a6a-4a27-b70c-602f840190fa">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/GLA</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="IST" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="demo@localhost" uuid="6d50d2e6-454b-4c00-9acf-6ca1c1efcef5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/demo</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="IST" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
